@@ -8,6 +8,7 @@ https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_pa
 ## Training and testing dataset
 root
     ---train      # MWFI, orginal training data
+    
     ---test       # MWFI, testing data
 
 ## Requirements
